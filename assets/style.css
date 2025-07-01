@@ -8,7 +8,7 @@ h3{font-weight:normal;font-size:1.125rem}
 h4{font-weight:normal;font-size:0.875rem}
 a{color:inherit;text-decoration:underline}
 a:hover,a:focus{text-decoration:none;color:#00008b}
-img{border-radius:15px;max-width:100%;height:auto;display:block;margin:1em auto}
+img{border-radius:15px;max-width:100%;height:auto;display:block;margin:1em 0}
 figure{margin:0 0 1em}
 ul{margin:0;padding:0;list-style:none}
 ul li::before{content:"+";padding-right:4px}
